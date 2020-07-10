@@ -23,6 +23,11 @@ public class MainTest {
     }
 
     @Test(expected = IllegalArgumentException.class)
+    public void testQuiDiviseParZero() {
+        Main.main(new String[]{"10", "0"});
+    }
+
+    @Test(expected = IllegalArgumentException.class)
     public void testCasKo() {
         Main.main(new String[]{"abcd"});
     }
