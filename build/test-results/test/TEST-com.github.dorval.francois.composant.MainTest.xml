@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.github.dorval.francois.composant.MainTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-07-11T06:42:00" hostname="DESKTOP-LC8G146" time="0.033">
+  <properties/>
+  <testcase name="testCasPassantBeteEtMechant" classname="com.github.dorval.francois.composant.MainTest" time="0.032"/>
+  <testcase name="testCasKo" classname="com.github.dorval.francois.composant.MainTest" time="0.001"/>
+  <testcase name="testQuiDiviseParZero" classname="com.github.dorval.francois.composant.MainTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
